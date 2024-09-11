@@ -153,11 +153,7 @@
         opcode: "Roman1",
         blockType: Scratch.BlockType.REPORTER,
         text: "Ⅰ",
-        arguments: {
-            "Roman1N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -169,11 +165,7 @@
         opcode: "Roman2",
         blockType: Scratch.BlockType.REPORTER,
         text: "Ⅱ",
-        arguments: {
-            "Roman2N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -185,11 +177,7 @@
         opcode: "Roman3",
         blockType: Scratch.BlockType.REPORTER,
         text: "Ⅲ",
-        arguments: {
-            "Roman3N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -201,11 +189,7 @@
         opcode: "Roman4",
         blockType: Scratch.BlockType.REPORTER,
         text: "Ⅳ",
-        arguments: {
-            "Roman4N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -217,11 +201,7 @@
         opcode: "Roman5",
         blockType: Scratch.BlockType.REPORTER,
         text: "Ⅴ",
-        arguments: {
-            "Roman5N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -233,11 +213,7 @@
         opcode: "Roman6",
         blockType: Scratch.BlockType.REPORTER,
         text: "Ⅵ",
-        arguments: {
-            "Roman6N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -249,11 +225,7 @@
         opcode: "Roman7",
         blockType: Scratch.BlockType.REPORTER,
         text: "Ⅶ",
-        arguments: {
-            "Roman7N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -265,11 +237,7 @@
         opcode: "Roman8",
         blockType: Scratch.BlockType.REPORTER,
         text: "Ⅷ",
-        arguments: {
-            "Roman8N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -281,11 +249,7 @@
         opcode: "Roman9",
         blockType: Scratch.BlockType.REPORTER,
         text: "Ⅸ",
-        arguments: {
-            "Roman9N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -297,11 +261,7 @@
         opcode: "Roman10",
         blockType: Scratch.BlockType.REPORTER,
         text: "Ⅹ",
-        arguments: {
-            "Roman10N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -313,11 +273,7 @@
         opcode: "Roman20",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅩⅩ",
-        arguments: {
-            "Roman20N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -329,11 +285,7 @@
         opcode: "Roman30",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅩⅩⅩ",
-        arguments: {
-            "Roman30N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -345,11 +297,7 @@
         opcode: "Roman40",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅩⅬ",
-        arguments: {
-            "Roman40N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -361,11 +309,7 @@
         opcode: "Roman50",
         blockType: Scratch.BlockType.REPORTER,
         text: "Ⅼ",
-        arguments: {
-            "Roman50N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -377,11 +321,7 @@
         opcode: "Roman60",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅬⅩ",
-        arguments: {
-            "Roman60N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -393,11 +333,7 @@
         opcode: "Roman70",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅬⅩⅩ",
-        arguments: {
-            "Roman70N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -409,11 +345,7 @@
         opcode: "Roman80",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅬⅩⅩⅩ",
-        arguments: {
-            "Roman80N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -425,11 +357,7 @@
         opcode: "Roman90",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅩⅭ",
-        arguments: {
-            "Roman90N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -441,11 +369,7 @@
         opcode: "Roman100",
         blockType: Scratch.BlockType.REPORTER,
         text: "Ⅽ",
-        arguments: {
-            "Roman100N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -457,11 +381,7 @@
         opcode: "Roman200",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅭⅭ",
-        arguments: {
-            "Roman200N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -473,11 +393,7 @@
         opcode: "Roman300",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅭⅭⅭ",
-        arguments: {
-            "Roman300N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -489,11 +405,7 @@
         opcode: "Roman400",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅭⅮ",
-        arguments: {
-            "Roman400N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -505,11 +417,7 @@
         opcode: "Roman500",
         blockType: Scratch.BlockType.REPORTER,
         text: "Ⅾ",
-        arguments: {
-            "Roman500N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -521,11 +429,7 @@
         opcode: "Roman600",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅮⅭ",
-        arguments: {
-            "Roman600N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -537,11 +441,7 @@
         opcode: "Roman700",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅮⅭⅭ",
-        arguments: {
-            "Roman700N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -553,11 +453,7 @@
         opcode: "Roman800",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅮⅭⅭⅭ",
-        arguments: {
-            "Roman800N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -569,11 +465,7 @@
         opcode: "Roman900",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅭⅯ",
-        arguments: {
-            "Roman900N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -585,11 +477,7 @@
         opcode: "Roman1000",
         blockType: Scratch.BlockType.REPORTER,
         text: "Ⅿ",
-        arguments: {
-            "Roman1000N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -601,11 +489,7 @@
         opcode: "Roman2000",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅯⅯ",
-        arguments: {
-            "Roman2000N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
@@ -617,32 +501,12 @@
         opcode: "Roman3000",
         blockType: Scratch.BlockType.REPORTER,
         text: "ⅯⅯⅯ",
-        arguments: {
-            "Roman3000N": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
+        arguments: {},
         disableMonitor: true,
         isEdgeActivated: false
     });
     Extension.prototype["Roman3000"] = async (args, util) => {
         return 3000
-    };
-
-    blocks.push({
-        opcode: "RNjoiner",
-        blockType: Scratch.BlockType.COMMAND,
-        text: "[A] [B]",
-        arguments: {
-            "RNjoiner": {
-                type: Scratch.ArgumentType.NUMBER,
-            },
-        },
-        disableMonitor: true,
-        isEdgeActivated: false
-    });
-    Extension.prototype["RNjoiner"] = async (args, util) => {
-        return (Number('num') + Number('num'))
     };
 
     Scratch.extensions.register(new Extension());
